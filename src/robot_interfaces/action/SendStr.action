@@ -1,0 +1,8 @@
+# Goal
+string target_movement
+---
+# Result
+string reached_movement
+---
+#Feedback
+string curr_movement
